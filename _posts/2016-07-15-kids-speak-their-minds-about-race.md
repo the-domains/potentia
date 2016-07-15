@@ -63,10 +63,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=9OKgUdQF-Fg'
 title: Kids speak their minds about race
-datePublished: '2016-07-15T15:09:42.412Z'
-dateModified: '2016-07-15T15:09:17.004Z'
-sourcePath: _posts/2016-07-15-kids-speak-their-minds-about-race.md
+datePublished: '2016-07-15T15:39:08.588Z'
+dateModified: '2016-07-15T15:38:58.200Z'
 starred: false
+sourcePath: _posts/2016-07-15-kids-speak-their-minds-about-race.md
 inFeed: true
 hasPage: false
 inNav: false
